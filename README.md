@@ -1,4 +1,6 @@
-# app-transmetro
+# Aplicación Auditorias Aeropuerto
+
+Aplicación desarrollada como apoyo a la realización de auditorias de cumplimiento de protocolos COVID-19 en el aeropuerto de la ciudad. 
 
 ## Project setup
 ```
